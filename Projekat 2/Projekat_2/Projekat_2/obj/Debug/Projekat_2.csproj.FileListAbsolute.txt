@@ -1,0 +1,13 @@
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.csprojAssemblyReference.cache
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.NoviArtikal.resources
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.Properties.Resources.resources
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.csproj.GenerateResource.cache
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\bin\Debug\Prodavnica.mdb
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\bin\Debug\Projekat_2.exe.config
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\bin\Debug\Projekat_2.exe
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\bin\Debug\Projekat_2.pdb
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.exe
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.pdb
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.Kupovina.resources
+C:\Users\User\Google Drive (mihajilomrsevic@gmail.com)\Druga godina\Vezbe\Cetvrti semestar\TVP\Projekat 2\Projekat_2\Projekat_2\obj\Debug\Projekat_2.PrikazRacuna.resources
